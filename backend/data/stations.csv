@@ -1,0 +1,7 @@
+station_code,station_name,city,state,is_major_junction
+VSKP,Visakhapatnam,Visakhapatnam,Andhra Pradesh,1
+BZA,Vijayawada,Vijayawada,Andhra Pradesh,1
+MAS,Chennai Central,Chennai,Tamil Nadu,1
+SC,Secunderabad,Hyderabad,Telangana,1
+SBC,KSR Bengaluru,Bengaluru,Karnataka,1
+PGT,Palakkad,Palakkad,Kerala,1

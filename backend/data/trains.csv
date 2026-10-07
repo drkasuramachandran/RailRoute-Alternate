@@ -1,0 +1,8 @@
+train_id,train_number,train_name,mon,tue,wed,thu,fri,sat,sun
+T1,10001,Coastal Demo Express,1,1,1,1,1,1,1
+T2,10002,South Connector,1,1,1,1,1,1,1
+T3,10003,Chennai Link,1,1,1,1,1,1,1
+T4,10004,Bengaluru Connector,1,1,1,1,1,1,1
+T5,10005,Kerala Link,1,1,1,1,1,1,1
+T6,10006,Secunderabad Link,1,1,1,1,1,1,1
+T7,10007,Coastal South Express,1,1,1,1,1,1,1
